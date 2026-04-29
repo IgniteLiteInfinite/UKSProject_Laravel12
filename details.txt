@@ -1,0 +1,5 @@
+admin@example.com
+password = password
+
+php artisan serve --port=8001
+
